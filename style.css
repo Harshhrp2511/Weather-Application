@@ -5,11 +5,9 @@
     --background: rgba(255, 255, 255, 0);
     --box_shadow: rgba(3, 46, 87, 0.3);
 }
-
 html{
     font-size: 10px;
 }
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -32,7 +30,6 @@ body {
     height: auto;
     background: var(--background);
     backdrop-filter: blur(0.5rem);
-    z-index: 1;
     display: flex;
     align-items: center;
     flex-direction: column;
