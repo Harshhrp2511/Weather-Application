@@ -50,7 +50,6 @@ body {
 } 
 .search_box input {
   background: transparent;
-  opacity: 100%;
   flex: 1;
   border: 0;
   outline: none;
