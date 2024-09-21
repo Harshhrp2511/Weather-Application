@@ -1,2 +1,2 @@
-Weather application using HTML, CSS and Javascript
+Weather application using HTML and Javascript
 
